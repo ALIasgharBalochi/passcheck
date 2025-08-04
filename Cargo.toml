@@ -1,0 +1,10 @@
+[package]
+name = "passcheck"
+version = "0.1.0"
+edition = "2024"
+authors = ["Ali <alibalochi1910@gmail.com>"]
+description = "A flexible rule-base password validation library"
+license = "MIT"
+repository = "https://github.com/ALIasgharBalochi/passcheck"
+
+[dependencies]

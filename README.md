@@ -21,7 +21,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-passcheck = "0.1.1"
+passcheck = "0.2.0"
 ```
 # 🎯 Usage Example 
 ```rust 

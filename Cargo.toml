@@ -1,6 +1,6 @@
 [package]
 name = "passcheck"
-version = "0.1.1"
+version = "0.2.0"
 edition = "2024"
 authors = ["Ali <alibalochi1910@gmail.com>"]
 description = "A flexible rule-base password validation library"
